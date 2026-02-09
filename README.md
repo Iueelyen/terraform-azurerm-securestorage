@@ -65,3 +65,11 @@ run terraform init
 
 run terraform fmt  
 run terraform validate
+
+Go back to github and under the repo for this select tags then cresate a new release. 
+Name it 1.0.0 and write something in the relase notes and name.  Publish release. 
+
+goto terrafom cloud and got to registry then publish a module.   select github 
+Selct the correct depo and you are done.  
+
+how we use it will be in the next folder
