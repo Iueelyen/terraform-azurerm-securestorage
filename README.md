@@ -63,5 +63,5 @@ run terraform init
   
 # Next things
 
-run terraform fmt
+run terraform fmt  
 run terraform validate
